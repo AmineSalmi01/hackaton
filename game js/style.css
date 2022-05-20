@@ -1,0 +1,26 @@
+body{
+    font-family: Arial, Helvetica, sans-serif ;
+    display: flex;
+    justify-content: center;    
+    text-align: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url("bg-masthead.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#game{
+    border: solid 2px;
+    padding: 190px;
+    height: 700px;
+    position: relative;
+    background-color: white;
+    opacity: 0.7;
+    line-height: 300px;
+}
+#btn{
+    padding: 15px 40px;
+    font-size: 20px;
+    background-color: #981d98 !important;
+}
